@@ -195,8 +195,9 @@ JWT_ADMIN_PASSWORD=your_admin_jwt_secret
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/course-selling-backend.git](https://github.com/your-username/course-selling-backend.git)
+git clone https://github.com/Bhavysinghal/course-selling-backend.git
 cd course-selling-backend
+
 ```
 
 ### 2️⃣ Install Dependencies
